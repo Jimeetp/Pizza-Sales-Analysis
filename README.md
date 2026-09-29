@@ -3,7 +3,7 @@
 End-to-end analysis of a pizza restaurant's 2015 sales: Excel data → SQL KPIs → interactive Power BI dashboard.
 
 ![Home Dashboard](https://github.com/Jimeetp/Pizza-Sales-Analysis/blob/main/Dashboard%20Images/Home.png)
-![Best and Worst Sellers]([images/dashboard_best_worst.png](https://github.com/Jimeetp/Pizza-Sales-Analysis/blob/main/Dashboard%20Images/Best-Worst%20Sellers.png))
+![Best and Worst Sellers](https://github.com/Jimeetp/Pizza-Sales-Analysis/blob/main/Dashboard%20Images/Best-Worst%20Sellers.png)
 
 ## 📌 Problem Statement
 The restaurant wants to understand its sales performance, ordering patterns and product popularity to make better menu, staffing and marketing decisions.
